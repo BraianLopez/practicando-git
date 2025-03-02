@@ -9,5 +9,8 @@ namespace ConsoleAppGit
     public class PersonaBraian
     {
         public string Nombre {  get; set; }
+
+        public string Apellido { get; set; }
+
     }
 }
